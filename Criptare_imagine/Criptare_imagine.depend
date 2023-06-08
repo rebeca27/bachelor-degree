@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1592858734 source:c:\users\ours\onedrive - unibuc.ro\desktop\sistem de criptare teo\criptare_imagine\main.cpp
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+	<time.h>
+	<set>
+	"EasyBMP.h"
+
+1164938736 c:\users\ours\onedrive - unibuc.ro\desktop\sistem de criptare teo\criptare_imagine\easybmp\easybmp.h
+	<iostream>
+	<cmath>
+	<cctype>
+	<cstring>
+	<stdio.h>
+	<cstdio>
+	"EasyBMP_DataStructures.h"
+	"EasyBMP_BMP.h"
+	"EasyBMP_VariousBMPutilities.h"
+
+1164938554 c:\users\ours\onedrive - unibuc.ro\desktop\sistem de criptare teo\criptare_imagine\easybmp\easybmp_datastructures.h
+
+1164939632 c:\users\ours\onedrive - unibuc.ro\desktop\sistem de criptare teo\criptare_imagine\easybmp\easybmp_bmp.h
+
+1164938562 c:\users\ours\onedrive - unibuc.ro\desktop\sistem de criptare teo\criptare_imagine\easybmp\easybmp_variousbmputilities.h
+
+1164939768 source:c:\users\ours\onedrive - unibuc.ro\desktop\sistem de criptare teo\criptare_imagine\easybmp\easybmp.cpp
+	"EasyBMP.h"
+
+1164939768 source:c:\users\ours\onedrive - unibuc.ro\desktop\licenta teo\sistem de criptare teo\criptare_imagine\easybmp\easybmp.cpp
+	"EasyBMP.h"
+
+1164938736 c:\users\ours\onedrive - unibuc.ro\desktop\licenta teo\sistem de criptare teo\criptare_imagine\easybmp\easybmp.h
+	<iostream>
+	<cmath>
+	<cctype>
+	<cstring>
+	<stdio.h>
+	<cstdio>
+	"EasyBMP_DataStructures.h"
+	"EasyBMP_BMP.h"
+	"EasyBMP_VariousBMPutilities.h"
+
+1164938554 c:\users\ours\onedrive - unibuc.ro\desktop\licenta teo\sistem de criptare teo\criptare_imagine\easybmp\easybmp_datastructures.h
+
+1164939632 c:\users\ours\onedrive - unibuc.ro\desktop\licenta teo\sistem de criptare teo\criptare_imagine\easybmp\easybmp_bmp.h
+
+1164938562 c:\users\ours\onedrive - unibuc.ro\desktop\licenta teo\sistem de criptare teo\criptare_imagine\easybmp\easybmp_variousbmputilities.h
+
+1593475638 source:c:\users\ours\onedrive - unibuc.ro\desktop\licenta teo\sistem de criptare teo\criptare_imagine\main.cpp
+	<cstdio>
+	<cstdlib>
+	<climits>
+	<cmath>
+	<ctime>
+	"EasyBMP.h"
+
+1164939768 source:c:\users\ours\onedrive - unibuc.ro\desktop\diverse\licenta teo\sistem de criptare teo\criptare_imagine\easybmp\easybmp.cpp
+	"EasyBMP.h"
+
+1164938736 c:\users\ours\onedrive - unibuc.ro\desktop\diverse\licenta teo\sistem de criptare teo\criptare_imagine\easybmp\easybmp.h
+	<iostream>
+	<cmath>
+	<cctype>
+	<cstring>
+	<stdio.h>
+	<cstdio>
+	"EasyBMP_DataStructures.h"
+	"EasyBMP_BMP.h"
+	"EasyBMP_VariousBMPutilities.h"
+
+1164938554 c:\users\ours\onedrive - unibuc.ro\desktop\diverse\licenta teo\sistem de criptare teo\criptare_imagine\easybmp\easybmp_datastructures.h
+
+1164939632 c:\users\ours\onedrive - unibuc.ro\desktop\diverse\licenta teo\sistem de criptare teo\criptare_imagine\easybmp\easybmp_bmp.h
+
+1164938562 c:\users\ours\onedrive - unibuc.ro\desktop\diverse\licenta teo\sistem de criptare teo\criptare_imagine\easybmp\easybmp_variousbmputilities.h
+
+1164939768 source:c:\users\ours\desktop\licenta teo\sistem de criptare teo\criptare_imagine\easybmp\easybmp.cpp
+	"EasyBMP.h"
+
+1164938736 c:\users\ours\desktop\licenta teo\sistem de criptare teo\criptare_imagine\easybmp\easybmp.h
+	<iostream>
+	<cmath>
+	<cctype>
+	<cstring>
+	<stdio.h>
+	<cstdio>
+	"EasyBMP_DataStructures.h"
+	"EasyBMP_BMP.h"
+	"EasyBMP_VariousBMPutilities.h"
+
+1164938554 c:\users\ours\desktop\licenta teo\sistem de criptare teo\criptare_imagine\easybmp\easybmp_datastructures.h
+
+1164939632 c:\users\ours\desktop\licenta teo\sistem de criptare teo\criptare_imagine\easybmp\easybmp_bmp.h
+
+1164938562 c:\users\ours\desktop\licenta teo\sistem de criptare teo\criptare_imagine\easybmp\easybmp_variousbmputilities.h
+
+1622965152 source:c:\users\ours\desktop\licenta teo\sistem de criptare teo\criptare_imagine\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<set>
+	"EasyBMP.h"
+
+1164939768 source:c:\users\ours\desktop\licenta rebeca\sistem de criptare rebeca\criptare_imagine\easybmp\easybmp.cpp
+	"EasyBMP.h"
+
+1164938736 c:\users\ours\desktop\licenta rebeca\sistem de criptare rebeca\criptare_imagine\easybmp\easybmp.h
+	<iostream>
+	<cmath>
+	<cctype>
+	<cstring>
+	<stdio.h>
+	<cstdio>
+	"EasyBMP_DataStructures.h"
+	"EasyBMP_BMP.h"
+	"EasyBMP_VariousBMPutilities.h"
+
+1164938554 c:\users\ours\desktop\licenta rebeca\sistem de criptare rebeca\criptare_imagine\easybmp\easybmp_datastructures.h
+
+1164939632 c:\users\ours\desktop\licenta rebeca\sistem de criptare rebeca\criptare_imagine\easybmp\easybmp_bmp.h
+
+1164938562 c:\users\ours\desktop\licenta rebeca\sistem de criptare rebeca\criptare_imagine\easybmp\easybmp_variousbmputilities.h
+
+1622975226 source:c:\users\ours\desktop\licenta rebeca\sistem de criptare rebeca\criptare_imagine\main.cpp
+	<cmath>
+	<climits>
+	<set>
+	<iostream>
+	<fstream>
+	"EasyBMP.h"
+
